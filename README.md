@@ -104,7 +104,7 @@ Go to [http://127.0.0.1:5000](https://www.google.com/search?q=http://127.0.0.1:5
 * **Preetha A:** Order Queue Management and ctypes library integration.
 
 
-* **Pranaya Shree S:**Frontend Development, Manager dashboard stats, and status updates.
+* **Pranaya Shree S:Frontend Development, Manager dashboard stats, and status updates.
 
 
 * **Pavithra SSM:** Fixed Menu Array, API integration, and sorted sales reports.
